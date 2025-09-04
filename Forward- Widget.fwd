@@ -1,8 +1,8 @@
 
 {
   "title": "Forward Widgets",
-  "description": "Forward Official Widgets",
-  "icon": "https://assets.vvebo.vip/scripts/icon.png",
+  "description": "自用模块",
+  "icon": "https://github.com/202090/Forward/blob/047af74c0166dd23e6103cc710b8531d20933ddd/icon.jpeg",
   "widgets": [
     {
       "id": "forward.tmdb",

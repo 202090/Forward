@@ -1,8 +1,7 @@
-
 {
   "title": "Forward Widgets",
   "description": "自用模块",
-  "icon": "https://github.com/202090/Forward/blob/main/icon.png",
+  "icon": "https://raw.githubusercontent.com/202090/Forward/refs/heads/main/icon.png",
   "widgets": [
    
 {

@@ -2,7 +2,7 @@
 {
   "title": "Forward Widgets",
   "description": "自用模块",
-  "icon": "https://github.com/202090/Forward/blob/047af74c0166dd23e6103cc710b8531d20933ddd/icon.jpeg",
+  "icon": "https://github.com/202090/Forward/blob/main/icon.png",
   "widgets": [
     {
       "id": "forward.tmdb",

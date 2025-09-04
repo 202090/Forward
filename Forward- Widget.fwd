@@ -1,1 +1,34 @@
 
+{
+  "title": "Forward Widgets",
+  "description": "Forward Official Widgets",
+  "icon": "https://assets.vvebo.vip/scripts/icon.png",
+  "widgets": [
+    {
+      "id": "forward.tmdb",
+      "title": "TMDB",
+      "description": "获取 TMDB 的榜单数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.2",
+      "author": "Forward",
+      "url": "https://assets.vvebo.vip/scripts/tmdb.js"
+    },
+    {
+      "id": "forward.danmu",
+      "title": "自定义弹幕",
+      "description": "从指定服务器获取弹幕",
+      "requiredVersion": "0.0.2",
+      "version": "1.0.0",
+      "author": "Forward",
+      "url": "https://assets.vvebo.vip/scripts/danmu.js"
+    },
+{
+      "id": "forward.combined.media.lists",
+      "title": "影视榜单",
+      "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
+      "requiredVersion": "0.0.1",
+      "version": "1.3.1",
+      "author": "阿米诺斯",
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/combined.js"
+    }
+]

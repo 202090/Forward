@@ -4,24 +4,7 @@
   "description": "自用模块",
   "icon": "https://github.com/202090/Forward/blob/main/icon.png",
   "widgets": [
-    {
-      "id": "forward.tmdb",
-      "title": "TMDB",
-      "description": "获取 TMDB 的榜单数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.2",
-      "author": "Forward",
-      "url": "https://assets.vvebo.vip/scripts/tmdb.js"
-    },
-    {
-      "id": "forward.danmu",
-      "title": "自定义弹幕",
-      "description": "从指定服务器获取弹幕",
-      "requiredVersion": "0.0.2",
-      "version": "1.0.0",
-      "author": "Forward",
-      "url": "https://assets.vvebo.vip/scripts/danmu.js"
-    },
+   
 {
       "id": "forward.combined.media.lists",
       "title": "影视榜单",

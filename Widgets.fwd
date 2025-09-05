@@ -4,6 +4,15 @@
   "icon": "https://raw.githubusercontent.com/202090/Forward/refs/heads/main/icon.png",
   "widgets": [
     {
+      "id": "tv_live",
+      "title": "电视台",
+      "description": "获取热门电视直播频道",
+      "requiredVersion": "0.0.1",
+      "version": "1.1.5",
+      "author": "两块",
+      "url": "https://raw.githubusercontent.com/202090/Forward/refs/heads/main/Widgets/TvLive.js"
+    },
+    {
       "id": "forward.combined.media.lists",
       "title": "影视榜单",
       "description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",

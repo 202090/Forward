@@ -22,7 +22,7 @@
       "url": "https://raw.githubusercontent.com/202090/Forward/refs/heads/main/Widgets/Combined.js"
     },
     {
-      "id": process.env.NODE_ENV === "production" ? "baranwang.danmu.universe" : "baranwang.danmu.universe.test",
+      "id": "baranwang.danmu.universe" : "baranwang.danmu.universe.test",
       "title": "通用弹幕",
       "description": "通用弹幕插件，支持腾讯、优酷、爱奇艺、哔哩哔哩等平台",
       "requiredVersion": "0.0.2",

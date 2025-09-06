@@ -1,7 +1,7 @@
 var WidgetMetadata = {
     id: "cloud_cinema",
     title: "云端影院",
-    description: "获取在线云端在线资源",
+    description: "获取在线云端影视资源",
     author: "两块",
     site: "https://github.com/2kuai/ForwardWidgets",
     version: "1.1.001",

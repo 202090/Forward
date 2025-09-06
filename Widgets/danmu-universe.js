@@ -5982,7 +5982,7 @@ WidgetMetadata = {
     title: "\u901A\u7528\u5F39\u5E55",
     description: "\u901A\u7528\u5F39\u5E55\u63D2\u4EF6\uFF0C\u652F\u6301\u817E\u8BAF\u3001\u4F18\u9177\u3001\u7231\u5947\u827A\u3001\u54D4\u54E9\u54D4\u54E9\u7B49\u5E73\u53F0",
     author: "Baran",
-    version: "0.0.4",
+    version: "0.4.0",
     site: "https://github.com/baranwang/forward-widgets/tree/main/packages/danmu-universe",
     requiredVersion: "0.0.2",
     modules: [
